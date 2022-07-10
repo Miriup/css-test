@@ -1,0 +1,12 @@
+.tabledesign {
+	width: 100px;
+	height: 100px;
+}
+
+.tabledesign:nth-child(even) {
+	background-color: red;
+}
+
+.tabledesign:nth-child(odd) {
+	background-color: green;
+}
