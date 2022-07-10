@@ -10,3 +10,6 @@
 .tabledesign:nth-child(odd) {
 	background-color: green;
 }
+div.tabledesign {
+	float: left;
+}
